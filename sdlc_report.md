@@ -25,7 +25,8 @@ v-shaped model.
 
 ## Prototyping Model
 
-Some info on Prototyping
+It involves activity of creating prototypes of software applications before actually developing the final product. This is done to make sure that the project matches 
+the requirements and the customer expectations. To do this, the prototype is created again and again until the customer requirements is satisfied. 
 
 #### Why choose v-shaped over it ? 
 
@@ -35,4 +36,12 @@ The majority of time in Prototyping model goes in creating various versions of p
 
 ## Spiral Model
 
-Some info on Spiral
+This model of development combines the features of the prototyping model and the waterfall model. Various iterations of product is created 
+and the product is contiously being improved following customer's suggestions. Spiral model is said as a "meta" model because it is not a real model. 
+When a software development project lasts only once cycle, it resembles Waterfall model.
+
+#### Why choose v-shaped over it ?
+
+Lot of time is required to reach the final product aslike Prototyping model. We didn't have that much time. 
+
+
