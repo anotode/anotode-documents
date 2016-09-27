@@ -4,17 +4,21 @@
 
 * They can add tags and categories to what they highlight.
 
-* Each tag or category should have a separate color for highlighting. 
+* Any tag or category can have a separate color for highlighting. 
 
-* Developing basic website and android application which lists authenticated user's highlights.
+* There should be a website which lists authenticated user's highlights.
+
+* There should be an Android application which lists authenticated user's highlights. 
 
 * User should be able to see the annotated text when revisiting that website.
 
 * Everything highlighted on one browser should be viewable via Android and Web app.
 
+* If a user uses multiple browsers, they should be in sync. That is data highlighted on one browser = data highlighted on another. 
+
 * A user account should be secured by password. 
 
-* User should be able to filter highlights by tags or category from their account.
+* User should be able to filter highlights by tags and/or categories from the client apps.
 
 * User should be able to add optional comments to a highlight.
 
