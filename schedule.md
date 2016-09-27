@@ -65,6 +65,7 @@
 
 ## Milestone 4
 
-* [All] Deployment
+* [All] Finalzing Documentation (4 days)
+* [All] Deployment (2 days)
 
 
