@@ -1,5 +1,7 @@
 # Schedule
 
+Expected project duration - 1st Oct to 15th Nov
+
 
 ## Milestone 1
 
