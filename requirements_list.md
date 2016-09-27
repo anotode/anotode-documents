@@ -4,7 +4,9 @@
 
 * They can add tags and categories to what they highlight.
 
-* A tag or category can have a separate color for highlighting.  
+* A tag or category can have a separate color for highlighting.
+
+* Source url and current time should be saved too when a text is highlighted. 
 
 * There should be a website which lists authenticated user's highlights.
 
@@ -12,7 +14,7 @@
 
 * If a user comes back to an article, the browser should show what they have highlighted.
 
-* Everything highlighted on one browser should be viewable via Android and Web app.
+* Everything highlighted on the browser should be viewable via Android and Web app.
 
 * If a user uses multiple browsers, they should be in sync. That is, data highlighted on one browser = data highlighted on another. 
 
