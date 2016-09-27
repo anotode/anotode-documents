@@ -4,17 +4,17 @@
 
 * They can add tags and categories to what they highlight.
 
-* Any tag or category can have a separate color for highlighting. 
+* A tag or category can have a separate color for highlighting.  
 
 * There should be a website which lists authenticated user's highlights.
 
 * There should be an Android application which lists authenticated user's highlights. 
 
-* User should be able to see the annotated text when revisiting that website.
+* If a user comes back to an article, the browser should show what they have highlighted.
 
 * Everything highlighted on one browser should be viewable via Android and Web app.
 
-* If a user uses multiple browsers, they should be in sync. That is data highlighted on one browser = data highlighted on another. 
+* If a user uses multiple browsers, they should be in sync. That is, data highlighted on one browser = data highlighted on another. 
 
 * A user account should be secured by password. 
 
@@ -23,3 +23,6 @@
 * User should be able to add optional comments to a highlight.
 
 * User should be able to create a custom note (i.e. not by highlighting). Those notes will have no URL. 
+
+* When using Google, a user's highlighted articles should stand out from other search results. 
+
