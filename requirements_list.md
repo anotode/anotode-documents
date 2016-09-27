@@ -24,5 +24,7 @@
 
 * User should be able to create a custom note (i.e. not by highlighting). Those notes will have no URL. 
 
+* User should be able to add a title to a highlight. This feature will be optional. 
+
 * When using Google, a user's highlighted articles should stand out from other search results. 
 
