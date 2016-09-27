@@ -31,10 +31,10 @@ People required (P) = Effort Applied / Development Time [count]
 Now the first step is to calculate KLOC. Here is what we came up with after some analysis. 
 
 <table>
-<th>
-	<td>Sub-project</td>
-	<td>KLOC</td>
-</th>
+<tr>
+	<th>Sub-project</th>
+	<th>KLOC</th>
+</tr>
 <tr>
 	<td>Android App</td>
 	<td>3</td>
