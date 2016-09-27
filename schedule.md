@@ -3,7 +3,11 @@
 
 ## Milestone 1
 
-* [All] Initialize Project (7 days)
+* [All] Design (4 days)
+
+---
+
+* [All] Initialize Project (2 days)
 
 ---
 
@@ -12,23 +16,39 @@
 
 ---
 
-* [Extension, Server] Highlighting (5 days)
-* [CA] List Highlights of a user (5 days)
+* [Extension, Server] Highlighting (4 days)
+* [CA] List Highlights of a user (4 days)
+
+---
+
+* [All] Testing (2 days)
 
 
 ## Milestone 2
 
-* [Server, CA] Create note on demand (3 days)
+* [All] Design (3 days)
 
 ---
 
-* [Server, Extension] Adding tags and categories to highlights with search feature (7 days)
-* [CA] Search feature (7 days)
+* [Server, CA] Create note on demand (2 days)
+
+---
+
+* [Server, Extension] Adding tags and categories to highlights with search feature (5 days)
+* [CA] Search feature (5 days)
+
+---
+
+* [All] Testing (2 days)
 
 
 ## Milestone 3
 
-* [Extension] Rehighlight text in Browser (3 days)
+* [All] Design (2 days)
+
+---
+
+* [Extension] Rehighlight text in Browser (2 days)
 
 ---
 
@@ -36,6 +56,15 @@
 
 ---
 
-* [All] Commenting feature on a highlight with edit comment (5 days)
+* [All] Commenting feature on a highlight with edit comment (4 days)
+
+---
+
+* [All] Testing (2 days)
+
+
+## Milestone 4
+
+* [All] Deployment
 
 
