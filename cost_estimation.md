@@ -20,10 +20,45 @@ According to Wikipedia, a project is Semi-detached if ->
 
 #### Computations
 
+The formula to calculate people required COCOMO model goes as -- 
+
 ```
-Effort Applied (E) = 3.0 * (10) ** 1.12   # 39.54
-Development Time (D) = 2.5 * E ** 0.38   # 9.055
-People Required = E/D  # 4.367
+Effort Applied (E) = 3.0 * (KLOC) ** 1.12 [ man-months ]
+Development Time (D) = 2.5 * (Effort Applied) ** 0.38 [months]
+People required (P) = Effort Applied / Development Time [count]
+```
+
+Now the first step is to calculate KLOC. Here is what we came up with after some analysis. 
+
+<table>
+<th>
+	<td>Sub-project</td>
+	<td>KLOC</td>
+</th>
+<tr>
+	<td>Android App</td>
+	<td>3</td>
+</tr>
+<tr>
+	<td>Backend Server</td>
+	<td>2.5</td>
+</tr>
+<tr>
+	<td>Browser Extensions</td>
+	<td>3</td>
+</tr>
+<tr>
+	<td>Frontend / website</td>
+	<td>1.5</td>
+</tr>
+</table>
+
+Total KLOC = 10
+
+```python
+E = 3.0 * (10) ** 1.12   # 39.54
+D = 2.5 * E ** 0.38   # 9.055
+P = E/D  # 4.367
 ```
 
 #### Conclusion
