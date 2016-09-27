@@ -30,3 +30,5 @@
 
 * When using Google, a user's highlighted articles should stand out from other search results. 
 
+* User should be able to export their data in plain text format.
+
