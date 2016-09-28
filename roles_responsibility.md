@@ -174,6 +174,5 @@ To deploy the software.
 ##### Responsibilities
 
 To release a given product to numerous customer sites.
-Based on the design documents developed by the technical design team, the deployment team builds and manages the deploye system.
-Release the pre-planned communications about the product to all stakeholders and ensure that all release controls have been satisfied.
+Based on the design documents developed by the technical design team, the deployment team builds and manages the deployement system. They are responsible for putting the software in the hands of the end user. 
 
