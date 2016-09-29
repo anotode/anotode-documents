@@ -118,7 +118,7 @@ Designing of Software (Interface)
 ##### Responsibilities
 
 Implement the functionalities which design the software with fast response along with attractive interface 
-along with designing prototypes for web application using mackflow and follow material design and designing prototypes for android application.
+along with designing prototypes for web application using mockflow and follow material design and designing prototypes for android application.
 
 
 #### 3.2 Low level Designing Team
