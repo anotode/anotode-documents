@@ -2,10 +2,11 @@
 
 1. Documentaion Team
 2. Developement Team
-	1.  Android Team
-	2.  Frontend Team
-	3. Backend Team
-	4. Browser Extension Team
+	1. Android Team
+	2. Frontend Team
+	3. Graphic Design Team
+	4. Backend Team
+	5. Browser Extension Team
 3. Designing Team
 	1. High level Designing Team
 	2. Low level Designing Team
@@ -69,11 +70,28 @@ The website link on which text is highlited will also stored in website.
 Also adding some extra features like searching of notes and colouring,tags etc.
 
 
-#### 2.3 Backend Team
+#### 2.3 Graphic Design Team
 
 ##### Members
 
-Avi Aryan , Manohar Reddy , Saurabh Nitnaware
+Monika Maheshwari, Manohar Reddy
+
+##### Role Definition
+
+To design graphics for our system
+
+##### Responsibilities:
+
+Graphic Design team will have the responsiblity of creating protoypes of our user interface, 
+designing logos and icons and so on. Before developing a UI, the development team will contact the graphics team 
+for design tips and guidelines. They will be responsible for co-ordinating the look and feel of the application. 
+
+
+#### 2.4 Backend Team
+
+##### Members
+
+Avi Aryan , Manohar Reddy
 
 ##### Role Definition
 
@@ -86,7 +104,7 @@ A good database is required so as to handle the incoming traffic.
 The database created should be fast and if it crashes then the entire system fails, therefore the backend team is responsible to create such an efficient database.
 
 
-#### 2.4 Browser Extension Team
+#### 2.5 Browser Extension Team
 
 ##### Members
 
