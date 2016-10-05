@@ -6,6 +6,6 @@
 4. url
 5. category
 6. color
-7. timeDate
+7. time
 8. comment
-9. tags
+9. tags - [String]
